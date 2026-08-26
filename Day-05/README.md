@@ -1,4 +1,4 @@
-# Day 4 — Check Palindrome String
+# Day 5 — Check Palindrome String
 
 ## 🧩 Problem
 
