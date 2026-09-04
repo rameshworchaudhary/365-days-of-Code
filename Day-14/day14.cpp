@@ -13,3 +13,4 @@ int main(){
     cout<<"Count of "<<target<<" is: "<<count<<endl;
     return 0;
 }
+
