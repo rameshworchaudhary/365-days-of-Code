@@ -8,10 +8,10 @@ for(int i = 0; i < 10; i++){
 
         if(arr[i] == arr[j]){
 
-            cout << "First repeating element: " << arr[i];
-            return 0;
+            cout << "First repeating element: " << arr[i] << endl;
 
         }
     }
 }
+return 0;
 }
