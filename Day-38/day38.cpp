@@ -1,4 +1,4 @@
-//valid parenthesis
+
 #include<iostream>
 #include<stack>
 using namespace std;
