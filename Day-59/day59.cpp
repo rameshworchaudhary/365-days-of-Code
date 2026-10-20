@@ -48,4 +48,4 @@ int main() {
          << kthSmallest(root, k) << endl;
 
     return 0;
-}gi
+}
