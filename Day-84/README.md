@@ -1,4 +1,4 @@
-# Day 83 — Count Good Nodes in Binary Tree
+# Day 84 — Count Good Nodes in Binary Tree
 
 ## Problem
 
