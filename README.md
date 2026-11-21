@@ -42,7 +42,7 @@ Additional languages may be used as the challenge progresses.
 | ... | ...     | ...      | ⬜      |
 | 365 | —       | —        | ⬜      |
 
-**Progress: 1 / 365 days completed**
+**Progress: 92 / 365 days completed**
 
 ---
 
